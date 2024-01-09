@@ -1,0 +1,48 @@
+/******************************************
+/* HOT GARBAGE - PLEASE DON'T MIMIC THIS CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+  font-family: 'Inter', sans-serif;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+
+body{
+  background-color: lightpink;
+  color: #7a5c58;
+}
+
+h1, h2{
+  text-align: center;
+}
+
+img{
+  display: block;
+  height: 300px;
+  margin: 0 auto;
+}
+
+ul{
+  width: 100px;
+  height: 348px;
+  border: 3px solid #7a5c58;
+  margin: 0 auto;
+  list-style: none;
+  padding: 0;
+}
+
+li{
+  text-align: center;
+  width: 94px;
+  height: 49px;
+  border: 1px solid #7a5c58;
+}
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
